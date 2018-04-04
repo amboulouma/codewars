@@ -10,11 +10,11 @@ setup (
 
        # Fill in these to make your Egg ready for upload to
        # PyPI
-       author='amine',
-       author_email='',
+       author='Amine M. Boulouma',
+       author_email='amine@boulouma.com',
 
        #summary = 'Just another Python package for the cheese shop',
-       url='',
+       url='http://amine.boulouma.com',
        license='',
        long_description='Long description of the package',
 
